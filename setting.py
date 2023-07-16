@@ -1,0 +1,5 @@
+valid_name = 'Иван'
+valid_surname = 'Иванов'
+valid_email = ''
+valid_phone = '79315555557'
+valid_password = '123456'
